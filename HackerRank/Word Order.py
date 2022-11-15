@@ -26,3 +26,4 @@ from collections import Counter
 word = list(input() for _ in range (int(input())))
 print(len(Counter(word)))
 print(*Counter(word).values())
+ 
