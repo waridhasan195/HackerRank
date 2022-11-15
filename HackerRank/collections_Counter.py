@@ -1,5 +1,7 @@
 
 
+# https://www.hackerrank.com/challenges/collections-counter/problem?isFullScreen=true
+
 from collections import Counter
 
 n = int(input())

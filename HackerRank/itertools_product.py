@@ -1,3 +1,6 @@
+
+# https://www.hackerrank.com/challenges/itertools-product/problem?isFullScreen=true
+
 from itertools import product
 
 

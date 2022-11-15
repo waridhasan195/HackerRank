@@ -1,4 +1,6 @@
 
+# https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true
+
 
 n, m = map(int, input().split())
 
